@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.be5be54d.css",
+    "main.js": "/static/js/main.d230fdc4.js",
+    "static/js/787.6971d1b3.chunk.js": "/static/js/787.6971d1b3.chunk.js",
+    "static/media/kramlinger.png": "/static/media/kramlinger.be3f10c9e80c1cbc929f.png",
+    "index.html": "/index.html",
+    "main.be5be54d.css.map": "/static/css/main.be5be54d.css.map",
+    "main.d230fdc4.js.map": "/static/js/main.d230fdc4.js.map",
+    "787.6971d1b3.chunk.js.map": "/static/js/787.6971d1b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be5be54d.css",
+    "static/js/main.d230fdc4.js"
+  ]
+}
