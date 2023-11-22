@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b571ac6e.css",
-    "main.js": "/static/js/main.35ddf658.js",
+    "main.js": "/static/js/main.6cbbe992.js",
     "static/js/787.6971d1b3.chunk.js": "/static/js/787.6971d1b3.chunk.js",
     "static/media/vienna.png": "/static/media/vienna.ebedfefee5316171f004.png",
     "static/media/goettingen.png": "/static/media/goettingen.f662a23bf443ddfce0a9.png",
@@ -9,11 +9,11 @@
     "static/media/kramlinger.png": "/static/media/kramlinger.be3f10c9e80c1cbc929f.png",
     "index.html": "/index.html",
     "main.b571ac6e.css.map": "/static/css/main.b571ac6e.css.map",
-    "main.35ddf658.js.map": "/static/js/main.35ddf658.js.map",
+    "main.6cbbe992.js.map": "/static/js/main.6cbbe992.js.map",
     "787.6971d1b3.chunk.js.map": "/static/js/787.6971d1b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b571ac6e.css",
-    "static/js/main.35ddf658.js"
+    "static/js/main.6cbbe992.js"
   ]
 }
