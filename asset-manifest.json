@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.e41afe47.css",
-    "main.js": "/static/js/main.e11a65ef.js",
+    "main.css": "/static/css/main.ad06c6a7.css",
+    "main.js": "/static/js/main.c5880c84.js",
     "static/js/787.6971d1b3.chunk.js": "/static/js/787.6971d1b3.chunk.js",
+    "static/media/kramlinger.png": "/static/media/kramlinger.d488df7c5e96e80d9b94.png",
+    "static/media/MobyDick.png": "/static/media/MobyDick.0cf2de44c09c92e70b43.png",
     "static/media/vienna.png": "/static/media/vienna.ebedfefee5316171f004.png",
     "static/media/goettingen.png": "/static/media/goettingen.f662a23bf443ddfce0a9.png",
     "static/media/davis.png": "/static/media/davis.cda4fef4ea27d6940e72.png",
-    "static/media/kramlinger.png": "/static/media/kramlinger.be3f10c9e80c1cbc929f.png",
+    "static/media/MCMC.png": "/static/media/MCMC.cc83c79e027824068ad5.png",
+    "static/media/Camel.png": "/static/media/Camel.110056e556d39b396959.png",
     "index.html": "/index.html",
-    "main.e41afe47.css.map": "/static/css/main.e41afe47.css.map",
-    "main.e11a65ef.js.map": "/static/js/main.e11a65ef.js.map",
+    "main.ad06c6a7.css.map": "/static/css/main.ad06c6a7.css.map",
+    "main.c5880c84.js.map": "/static/js/main.c5880c84.js.map",
     "787.6971d1b3.chunk.js.map": "/static/js/787.6971d1b3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e41afe47.css",
-    "static/js/main.e11a65ef.js"
+    "static/css/main.ad06c6a7.css",
+    "static/js/main.c5880c84.js"
   ]
 }
